@@ -1,0 +1,347 @@
+135
+
+
+admitir
+Reconocer la verdad o validez de algo.
+
+alcanzar
+Llegar a un objetivo o lugar.
+
+analizar
+Examinar algo detalladamente.
+
+anunciar
+Hacer algo público.
+
+apelar
+Solicitar ayuda o reconsideración.
+
+aplicar
+Usar algo en una situación específica.
+
+apoyar
+Dar soporte o ayuda.
+
+presentar
+Mostrar o introducir algo o alguien.
+
+aprobar
+Considerar algo bueno o aceptable.
+
+argumentar
+Presentar razones para defender una idea.
+
+asistir
+Ver o presenciar algo.
+
+asumir
+Tomar responsabilidad por algo.
+
+atingir
+Alcanzar un objetivo o nivel.
+
+aumentar
+Hacer algo más grande.
+
+evaluar
+Juzgar el valor o calidad de algo.
+
+avisar
+Informar a alguien sobre algo.
+
+celebrar
+Festejar un evento especial.
+
+combinar
+Acordar en algo con otra persona.
+
+comparar
+Examinar las semejanzas y diferencias entre cosas.
+
+completar
+Terminar o concluir algo.
+
+comprobar
+Demostrar la verdad de algo.
+
+confiar
+Creer en la honestidad o capacidad de alguien.
+
+confirmar
+Verificar la veracidad de algo.
+
+conocer
+Tener familiaridad con algo o alguien.
+
+considerar
+Reflexionar sobre algo o alguien.
+
+constituir
+Formar o componer algo.
+
+consultar
+Buscar información o consejo.
+
+contar
+Narrar una historia o calcular números.
+
+controlar
+Ejercer poder o influencia sobre algo.
+
+convencer
+Hacer que alguien crea o esté de acuerdo con algo.
+
+corregir
+Remover errores o defectos.
+
+costar
+Tener un precio o exigir esfuerzo.
+
+decidir
+Tomar una decisión.
+
+defender
+Proteger o apoyar algo o alguien.
+
+depender
+Ser influenciado o determinado por algo.
+
+describir
+Detallar las características de algo.
+
+desarrollar
+Crear o expandir algo.
+
+desistir
+Abandonar un objetivo o actividad.
+
+destacar
+Dar énfasis o importancia a algo.
+
+determinar
+Establecer o decidir algo.
+
+disminuir
+Hacer algo más pequeño.
+
+dirigir
+Guiar o liderar algo.
+
+discutir
+Debatir o conversar sobre algo.
+
+distinguir
+Reconocer la diferencia entre cosas.
+
+dividir
+Separar en partes.
+
+dudar
+No estar seguro sobre algo.
+
+efectuar
+Realizar o ejecutar algo.
+
+eliminar
+Remover o excluir algo.
+
+emplear
+Usar o dar trabajo a alguien.
+
+entender
+Comprender algo.
+
+entregar
+Dar algo a alguien.
+
+involucrar
+Incluir o participar en algo.
+
+evitar
+Impedir que algo suceda.
+
+exigir
+Requerir algo como necesario.
+
+explicar
+Hacer algo claro o comprensible.
+
+expresar
+Mostrar o comunicar sentimientos o ideas.
+
+facilitar
+Hacer algo más fácil.
+
+faltar
+No estar presente o ser necesario.
+
+garantizar
+Asegurar o prometer algo.
+
+generar
+Producir o crear algo.
+
+identificar
+Reconocer o determinar algo.
+
+ignorar
+No prestar atención a algo.
+
+imaginar
+Crear imágenes o ideas en la mente.
+
+impedir
+Evitar que algo suceda.
+
+indicar
+Mostrar o apuntar algo.
+
+influir
+Tener efecto sobre algo o alguien.
+
+informar
+Dar información sobre algo.
+
+insistir
+Continuar haciendo algo a pesar de la resistencia.
+
+integrar
+Unir o combinar partes en un todo.
+
+interesar
+Despertar curiosidad o atención.
+
+interrumpir
+Parar o suspender algo.
+
+investigar
+Examinar algo cuidadosamente.
+
+justificar
+Dar razones para algo.
+
+lamentar
+Expresar tristeza o arrepentimiento.
+
+lidiar
+Tratar o resolver un problema.
+
+mantener
+Conservar o preservar algo.
+
+mencionar
+Referirse a algo brevemente.
+
+merecer
+Ser digno de algo.
+
+negar
+Decir que algo no es verdad.
+
+notar
+Percibir algo.
+
+obligar
+Forzar a alguien a hacer algo.
+
+observar
+Examinar algo con atención.
+
+obtener
+Conseguir o adquirir algo.
+
+ocurrir
+Acontecer o suceder.
+
+ofrecer
+Presentar algo para aceptación.
+
+organizar
+Arreglar o planear algo.
+
+compartir
+Dividir o compartir algo.
+
+permitir
+Dejar o autorizar algo.
+
+planear
+Hacer un plan para algo.
+
+poseer
+Tener algo como propiedad.
+
+preferir
+Gustar más de algo.
+
+preocupar
+Sentir ansiedad o inquietud.
+
+buscar
+Buscar o intentar encontrar algo.
+
+producir
+Crear o fabricar algo.
+
+prometer
+Garantizar que algo será hecho.
+
+proponer
+Presentar una idea o plan.
+
+proteger
+Defender o resguardar algo.
+
+realizar
+Ejecutar o completar algo.
+
+reconocer
+Identificar o recordar algo.
+
+recurrir
+Buscar ayuda o solución.
+
+reducir
+Hacer algo más pequeño.
+
+referir
+Mencionar o aludir a algo.
+
+reflexionar
+Pensar profundamente sobre algo.
+
+registrar
+Anotar o documentar algo.
+
+representar
+Simbolizar o actuar en nombre de algo.
+
+resolver
+Encontrar una solución para un problema.
+
+responsabilizar
+Atribuir responsabilidad a alguien.
+
+revelar
+Hacer algo conocido.
+
+sugerir
+Presentar una idea o propuesta.
+
+superar
+Vencer o sobrepasar algo.
+
+sostener
+Mantener o apoyar algo.
+
+traducir
+Convertir palabras de una lengua a otra.
+
+tratar
+Lidiar o cuidar de algo o alguien.
+
+utilizar
+Usar algo para un fin.
+
+variar
+Cambiar o diferir.

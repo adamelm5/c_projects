@@ -1,0 +1,179 @@
+59
+
+
+abarcar  
+Incluir o cubrir una amplia variedad de elementos.
+
+abogar  
+Defender o apoyar una idea o causa públicamente.
+
+abstenerse  
+Decidir no participar o evitar hacer algo voluntariamente.
+
+acatar  
+Obedecer una norma o autoridad de manera formal.
+
+adherir  
+Unirse física o ideológicamente a algo (e.g., "adherir a un tratado").
+
+admitir  
+Reconocer la validez de algo (no solo "dejar entrar").
+
+afectar  
+Influir negativamente o dañar algo de manera indirecta.
+
+afirmar  
+Declarar algo con firmeza y autoridad.
+
+agotar  
+Consumir completamente recursos físicos o abstractos (tiempo, energía).
+
+alegar  
+Presentar argumentos o razones en defensa de algo.
+
+analizar  
+Examinar detalladamente un tema o problema complejo.
+
+anticipar  
+Prever o actuar antes de un evento futuro.
+
+apelar  
+Recurrir a una autoridad o principio para justificar algo.
+
+asegurar  
+Garantizar o confirmar algo con certeza (no solo "poner seguro").
+
+asumir  
+Aceptar una responsabilidad o consecuencia difícil.
+
+atravesar  
+Pasar por una situación difícil o un período crítico.
+
+aumentar  
+Incrementar algo en intensidad o cantidad (contextos formales).
+
+avalar  
+Respaldar o garantizar algo oficialmente (e.g., un préstamo).
+
+basarse  
+Fundamentar una idea en hechos o principios.
+
+beneficiar  
+Otorgar ventajas o mejoras a alguien/algo.
+
+cuestionar  
+Poner en duda la validez de algo.
+
+culminar  
+Llegar al punto más alto o final de un proceso.
+
+definir  
+Explicar con precisión el significado de algo abstracto.
+
+demostrar  
+Probar algo mediante evidencia o lógica.
+
+derivar  
+Originarse o surgir como consecuencia de algo.
+
+desarrollar  
+Expandir o profundizar un tema, proyecto, o habilidad.
+
+descartar  
+Eliminar una posibilidad o opción después de analizarla.
+
+diseñar  
+Planificar metódicamente (no solo dibujar).
+
+distinguir  
+Reconocer diferencias sutiles entre elementos similares.
+
+ejercer  
+Practicar una profesión o aplicar presión/influencia.
+
+elaborar  
+Crear algo complejo mediante un proceso detallado.
+
+enfrentar  
+Confrontar un problema o desafío deliberadamente.
+
+exigir  
+Pedir algo con autoridad o urgencia.
+
+expandir  
+Ampliar el alcance o tamaño de algo abstracto (e.g., negocios).
+
+exponer  
+Presentar ideas o argumentos de manera estructurada.
+
+expresar  
+Comunicar sentimientos o pensamientos complejos.
+
+fomentar  
+Promover activamente el desarrollo de algo.
+
+garantizar  
+Asegurar el cumplimiento de algo legal o formal.
+
+gestionar  
+Administrar recursos o procesos de manera organizada.
+
+implementar  
+Poner en práctica un sistema o plan complejo.
+
+influir  
+Afectar decisiones o comportamientos indirectamente.
+
+justificar  
+Dar razones válidas para defender una acción o idea.
+
+mantener  
+Sostener una postura o condición a lo largo del tiempo.
+
+plantear  
+Proponer una idea o problema para discutirlo.
+
+presionar  
+Ejercer influencia intensa para lograr un objetivo.
+
+proporcionar  
+Brindar recursos o información de manera formal.
+
+rechazar  
+Negarse rotundamente a aceptar algo.
+
+reclamar  
+Exigir un derecho o compensación formalmente.
+
+reflejar  
+Mostrar una situación o sentimiento de manera indirecta.
+
+relacionar  
+Establecer conexiones entre conceptos o eventos.
+
+resolver  
+Solucionar un problema complejo o conflicto.
+
+restaurar  
+Recuperar un estado original (objetos, relaciones, sistemas).
+
+sostener  
+Mantener una opinión o teoría con argumentos sólidos.
+
+superar  
+Vencer obstáculos físicos, emocionales o abstractos.
+
+surgir  
+Aparecer inesperadamente (problemas, oportunidades).
+
+transformar  
+Cambiar radicalmente la naturaleza de algo.
+
+validar  
+Confirmar la legitimidad o eficacia de algo.
+
+valorar  
+Evaluar críticamente la importancia o calidad de algo.
+
+verificar  
+Comprobar la exactitud o autenticidad de algo.

@@ -1,0 +1,198 @@
+Get:
+- Get up: To rise from bed or a chair.
+- Get in: To enter a vehicle or place.
+- Get out: To leave a vehicle or place.
+- Get on: To board a bus, train, or plane.
+- Get off: To exit a bus, train, or plane.
+- Get along (with): To have a good relationship with someone.
+- Get over: To recover from an illness or difficulty.
+- Get back: To return to a place.
+- Get around: To travel or move around.
+- Get through: To finish something difficult.
+- Get away: To escape.
+- Get into: To become interested in something.
+- Get along without: To manage without something.
+- Get behind: To fall behind or support.
+- Get by: To manage with limited resources.
+- Get through to: To make someone understand.
+- Get across: To communicate clearly.
+- Get ahead: To make progress.
+- Get at: To imply or suggest.
+- Get away with: To avoid punishment.
+- Get down: To feel sad or depressed.
+- Get on with: To continue doing something.
+- Get round to: To finally do something.
+- Get together: To meet or gather.
+- Get used to: To become accustomed to.
+
+Take:
+- Take off: To remove clothing or to leave the ground (plane).
+- Take in: To absorb information or to shelter someone.
+- Take out: To remove something or to take someone on a date.
+- Take over: To gain control.
+- Take back: To return something or retract a statement.
+- Take apart: To disassemble.
+- Take down: To remove or write something.
+- Take on: To accept responsibility.
+- Take care of: To look after.
+- Take after: To resemble a family member.
+- Take up: To start a hobby or activity.
+- Take through: To explain step-by-step.
+- Take aback: To surprise.
+- Take for: To mistake identity.
+- Take away: To remove or subtract.
+- Take aside: To speak privately.
+- Take place: To happen.
+- Take notice: To pay attention.
+- Take part: To participate.
+- Take turns: To alternate.
+
+Put:
+- Put on: To wear clothing or to start a device.
+- Put off: To postpone or delay.
+- Put down: To place something or insult someone.
+- Put up with: To tolerate.
+- Put together: To assemble.
+- Put away: To store or save.
+- Put back: To return to its place.
+- Put forward: To suggest.
+- Put out: To extinguish or inconvenience someone.
+- Put across: To communicate effectively.
+- Put aside: To save or ignore.
+- Put through: To connect by phone or to endure.
+- Put up: To erect or accommodate.
+- Put in: To install or contribute.
+- Put over: To deceive or postpone.
+
+Look:
+- Look up: To search for information.
+- Look for: To search for something.
+- Look after: To take care of.
+- Look forward to: To anticipate with pleasure.
+- Look out: To be careful.
+- Look over: To examine.
+- Look into: To investigate.
+- Look down on: To disrespect.
+- Look up to: To admire.
+- Look through: To examine quickly.
+- Look around: To explore.
+- Look back: To reflect on the past.
+- Look ahead: To plan for the future.
+- Look away: To turn your gaze away.
+- Look in: To visit briefly.
+
+Go:
+- Go on: To continue or happen.
+- Go off: To explode or stop working.
+- Go out: To leave or stop burning.
+- Go over: To review or examine.
+- Go through: To experience or search.
+- Go back: To return.
+- Go ahead: To proceed.
+- Go away: To leave.
+- Go down: To decrease or be recorded.
+- Go up: To increase.
+- Go along: To agree or accompany.
+- Go around: To circulate or be enough.
+- Go for: To choose or attack.
+- Go without: To manage without something.
+- Go by: To pass (time) or follow.
+
+Come:
+- Come across: To find or be perceived.
+- Come along: To accompany or progress.
+- Come back: To return.
+- Come down: To decrease or fall.
+- Come up: To arise or approach.
+- Come out: To be revealed or published.
+- Come over: To visit or be influenced.
+- Come through: To succeed or survive.
+- Come off: To succeed or happen.
+- Come on: To encourage or start.
+- Come around: To change opinion or regain consciousness.
+- Come by: To obtain or visit.
+- Come apart: To break into pieces.
+- Come forward: To volunteer.
+- Come up with: To suggest or produce.
+
+Make:
+- Make up: To invent or reconcile.
+- Make out: To understand or kiss.
+- Make off: To leave quickly.
+- Make over: To renovate or transfer.
+- Make for: To head toward or contribute.
+- Make do: To manage with limited resources.
+- Make into: To transform.
+- Make of: To understand or interpret.
+- Make away with: To steal or kill.
+- Make up for: To compensate.
+
+Give:
+- Give up: To quit or surrender.
+- Give in: To yield or submit.
+- Give out: To distribute or stop working.
+- Give away: To reveal or donate.
+- Give back: To return.
+- Give off: To emit.
+- Give over: To stop or dedicate.
+- Give way: To collapse or yield.
+
+Break:
+- Break down: To stop working or analyze.
+- Break up: To end a relationship or disperse.
+- Break in: To enter forcibly or wear something new.
+- Break out: To escape or start suddenly.
+- Break off: To end abruptly.
+- Break through: To overcome.
+- Break away: To escape or separate.
+- Break into: To enter illegally or start suddenly.
+
+Bring:
+- Bring up: To raise a topic or child.
+- Bring in: To introduce or earn.
+- Bring out: To release or emphasize.
+- Bring down: To reduce or overthrow.
+- Bring back: To return or revive.
+- Bring about: To cause.
+- Bring along: To bring someone or something.
+- Bring around: To persuade or revive.
+
+Turn:
+- Turn on: To start a device or excite.
+- Turn off: To stop a device or disgust.
+- Turn up: To arrive or increase volume.
+- Turn down: To refuse or decrease volume.
+- Turn over: To flip or transfer.
+- Turn around: To improve or reverse.
+- Turn into: To transform.
+- Turn out: To result or attend.
+
+Set:
+- Set up: To arrange or establish.
+- Set off: To start a journey or cause.
+- Set out: To begin a journey or explain.
+- Set back: To delay or cost.
+- Set aside: To save or ignore.
+- Set in: To begin and continue.
+- Set on: To attack or encourage.
+- Set down: To write or place.
+
+Run:
+- Run out: To exhaust or expire.
+- Run into: To meet unexpectedly or collide.
+- Run over: To overflow or hit with a vehicle.
+- Run away: To escape.
+- Run through: To rehearse or use up.
+- Run off: To leave quickly or produce.
+- Run down: To criticize or lose power.
+- Run up: To accumulate or approach.
+
+Hold:
+- Hold on: To wait or grip tightly.
+- Hold back: To restrain or hesitate.
+- Hold up: To delay or rob.
+- Hold out: To endure or offer.
+- Hold off: To delay or resist.
+- Hold over: To postpone.
+- Hold down: To keep a job or suppress.
+- Hold against: To blame someone.

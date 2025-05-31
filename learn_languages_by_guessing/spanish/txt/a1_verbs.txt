@@ -1,0 +1,296 @@
+98
+
+
+ser
+Indicar la naturaleza, cualidad o estado de algo o alguien.
+
+estar
+Indicar un estado temporal, ubicación o condición.
+
+tener
+Poseer algo, sentir algo o ser obligado a hacer algo.
+
+ir
+Moverse de un lugar a otro.
+
+venir
+Moverse hacia el hablante.
+
+hacer
+Crear algo, realizar una acción.
+
+decir
+Expresar palabras, comunicar algo.
+
+dar
+Entregar algo a alguien.
+
+ver
+Percibir algo con los ojos.
+
+saber
+Tener conocimiento de algo.
+
+poder
+Tener la capacidad o permiso para hacer algo.
+
+querer
+Desear o tener voluntad de algo.
+
+gustar
+Sentir placer o satisfacción en relación a algo.
+
+pensar
+Reflexionar o considerar algo.
+
+hablar
+Expresarse oralmente.
+
+comer
+Ingerir alimentos.
+
+beber
+Ingerir líquidos.
+
+dormir
+Descansar en estado de sueño.
+
+despertar
+Salir del estado de sueño.
+
+andar
+Moverse a pie.
+
+correr
+Moverse rápidamente a pie.
+
+llegar
+Alcanzar un destino.
+
+salir
+Dejar un lugar.
+
+volver
+Regresar a un lugar.
+
+empezar
+Iniciar una acción.
+
+terminar
+Concluir una acción.
+
+trabajar
+Realizar una actividad remunerada.
+
+estudiar
+Dedicar al aprendizaje.
+
+aprender
+Adquirir conocimiento o habilidad.
+
+enseñar
+Transmitir conocimiento o habilidad.
+
+preguntar
+Solicitar información.
+
+responder
+Dar una respuesta.
+
+ayudar
+Prestar auxilio.
+
+necesitar
+Tener necesidad de algo.
+
+amar
+Sentir gran afecto.
+
+odiar
+Sentir aversión.
+
+sentir
+Percibir sensaciones o emociones.
+
+reír
+Expresar alegría con sonidos.
+
+llorar
+Expresar tristeza con lágrimas.
+
+oír
+Percibir sonidos con los oídos.
+
+mirar
+Fijar la visión en algo.
+
+tocar
+Entrar en contacto físico con algo.
+
+llevar
+Transportar algo a otro lugar.
+
+traer
+Transportar algo al lugar donde se está.
+
+encontrar
+Hallar algo perdido o alguien.
+
+perder
+Dejar de tener algo o alguien.
+
+recordar
+Traer a la memoria.
+
+olvidar
+Dejar de recordar.
+
+esperar
+Aguardar o tener esperanza.
+
+recibir
+Obtener algo que fue enviado.
+
+comprar
+Adquirir algo a cambio de dinero.
+
+vender
+Transferir la posesión de algo a cambio de dinero.
+
+pagar
+Entregar dinero a cambio de algo.
+
+abrir
+Remover la cobertura o vedación de algo.
+
+cerrar
+Colocar la cobertura o vedación de algo.
+
+usar
+Emplear algo para un fin.
+
+limpiar
+Remover la suciedad.
+
+lavar
+Limpiar con agua.
+
+cocinar
+Preparar alimentos.
+
+cortar
+Dividir algo con un objeto afilado.
+
+poner
+Poner algo en un lugar.
+
+quitar
+Remover algo de un lugar.
+
+escribir
+Registrar palabras en un soporte.
+
+leer
+Descifrar y comprender palabras escritas.
+
+dibujar
+Crear imágenes con trazos.
+
+jugar
+Participar en un juego o actividad lúdica.
+
+bailar
+Mover el cuerpo rítmicamente.
+
+cantar
+Emitir sonidos musicales con la voz.
+
+viajar
+Desplazarse a otro lugar.
+
+cambiar
+Alterar o modificar algo.
+
+subir
+Moverse a un lugar más alto.
+
+bajar
+Moverse a un lugar más bajo.
+
+entrar
+Pasar al interior de un lugar.
+
+mostrar
+Exhibir algo a alguien.
+
+pedir
+Solicitar algo.
+
+dejar
+Permitir o abandonar algo.
+
+intentar
+Esforzarse para hacer algo.
+
+continuar
+Dar seguimiento a una acción.
+
+existir
+Tener vida o realidad.
+
+vivir
+Habitar en un lugar.
+
+nacer
+Venir a la vida.
+
+morir
+Dejar de vivir.
+
+suceder
+Ocurrir o acontecer.
+
+elegir
+Seleccionar algo entre varias opciones.
+
+llamar
+Conectar o accionar un dispositivo.
+
+apagar
+Desconectar o desactivar un dispositivo.
+
+enviar
+Remitir algo a otro lugar.
+
+guardar
+Conservar o almacenar algo.
+
+encontrar
+Hallar o tener opinión sobre algo.
+
+crear
+Producir algo nuevo.
+
+partir
+Salir de un lugar.
+
+visitar
+Ir a un lugar o ver a alguien.
+
+presentar
+Mostrar o introducir algo o alguien.
+
+comunicar
+Transmitir información.
+
+reunir
+Juntar personas o cosas.
+
+describir
+Detallar características de algo.
+
+resolver
+Encontrar una solución.
+
+preparar
+Dejar algo listo para uso.

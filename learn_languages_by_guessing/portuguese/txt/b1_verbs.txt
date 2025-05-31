@@ -1,0 +1,563 @@
+187
+
+
+adaptar
+Ajustar algo a novas condições.
+
+adivinhar
+Descobrir algo sem informação prévia.
+
+adiar
+Transferir algo para uma data posterior.
+
+alertar
+Avisar sobre um perigo ou problema.
+
+aprofundar
+Tornar algo mais profundo ou detalhado.
+
+arrumar
+Organizar ou colocar em ordem.
+
+assegurar
+Garantir ou confirmar algo.
+
+atender
+Responder a uma chamada ou solicitação.
+
+atrasar
+Fazer algo acontecer mais tarde do que o esperado.
+
+autorizar
+Dar permissão para algo.
+
+beneficiar
+Trazer vantagens ou benefícios.
+
+cancelar
+Anular ou tornar algo sem efeito.
+
+caracterizar
+Descrever as qualidades ou traços distintivos.
+
+classificar
+Organizar em categorias ou grupos.
+
+colaborar
+Trabalhar junto com outras pessoas.
+
+comprometer
+Assumir uma obrigação ou promessa.
+
+conceder
+Dar ou permitir algo.
+
+concluir
+Chegar a uma conclusão ou terminar algo.
+
+condicionar
+Fazer algo depender de certas condições.
+
+confrontar
+Encarar ou enfrentar uma situação difícil.
+
+conquistar
+Obter algo através de esforço ou luta.
+
+consentir
+Dar permissão ou concordar com algo.
+
+conservar
+Manter algo em bom estado.
+
+constatar
+Verificar ou perceber algo.
+
+contribuir
+Dar uma ajuda ou participação.
+
+convidar
+Chamar alguém para um evento ou atividade.
+
+coordenar
+Organizar e dirigir um grupo ou atividade.
+
+criticar
+Avaliar e expressar opiniões negativas.
+
+cumprir
+Realizar ou executar uma obrigação.
+
+dedicar
+Consagrar tempo ou esforço a algo.
+
+demonstrar
+Provar ou mostrar algo claramente.
+
+desabafar
+Expressar sentimentos ou preocupações.
+
+desafiar
+Incitar alguém a competir ou enfrentar um desafio.
+
+descartar
+Rejeitar ou eliminar algo.
+
+desconfiar
+Não ter confiança em algo ou alguém.
+
+desculpar
+Perdoar ou justificar um erro.
+
+desempenhar
+Executar uma função ou papel.
+
+desfrutar
+Aproveitar ou sentir prazer em algo.
+
+desligar-se
+Separar-se ou distanciar-se de algo.
+
+deslocar
+Mover algo de um lugar para outro.
+
+desmentir
+Negar a veracidade de algo.
+
+despreocupar
+Não se preocupar ou tranquilizar.
+
+destacar-se
+Tornar-se notável ou proeminente.
+
+dificultar
+Tornar algo difícil ou complicado.
+
+divulgar
+Tornar algo conhecido publicamente.
+
+elaborar
+Criar ou desenvolver algo detalhadamente.
+
+emocionar
+Causar emoção ou sentimento forte.
+
+encantar
+Causar admiração ou fascínio.
+
+encarar
+Enfrentar ou lidar com uma situação.
+
+encerrar
+Fechar ou terminar algo.
+
+encontrar-se
+Reunir-se ou estar em um lugar.
+
+endurecer
+Tornar algo mais forte ou resistente.
+
+enfrentar
+Lidar com uma situação difícil ou problema.
+
+engajar
+Envolver-se ou participar ativamente.
+
+englobar
+Incluir ou abranger algo.
+
+enriquecer
+Tornar algo mais rico ou completo.
+
+entregar-se
+Dedicar-se completamente a algo.
+
+equilibrar
+Manter em equilíbrio ou harmonia.
+
+escalar
+Subir ou aumentar gradualmente.
+
+esclarecer
+Tornar algo claro ou compreensível.
+
+especializar
+Tornar-se perito em uma área específica.
+
+estabelecer
+Criar ou fixar algo.
+
+estimular
+Incentivar ou encorajar algo.
+
+evoluir
+Desenvolver-se ou progredir gradualmente.
+
+exagerar
+Aumentar ou exagerar algo.
+
+excluir
+Remover ou deixar de fora algo.
+
+exercer
+Praticar ou usar uma habilidade ou poder.
+
+exibir
+Mostrar ou apresentar algo publicamente.
+
+expandir
+Tornar algo maior ou mais extenso.
+
+experimentar
+Provar ou testar algo.
+
+expressar-se
+Comunicar pensamentos ou sentimentos.
+
+familiarizar
+Tornar-se familiarizado com algo.
+
+fiscalizar
+Inspecionar ou controlar algo.
+
+fortalecer
+Tornar algo mais forte ou resistente.
+
+frustrar
+Impedir que algo se realize ou cause decepção.
+
+fundamentar
+Basear ou justificar algo em princípios.
+
+gerenciar
+Administrar ou controlar algo.
+
+harmonizar
+Tornar algo harmonioso ou em equilíbrio.
+
+hesitar
+Ter dúvidas ou indecisão.
+
+identificar-se
+Sentir afinidade ou ligação com algo.
+
+implementar
+Colocar algo em prática ou execução.
+
+impor
+Obrigar ou exigir algo.
+
+incentivar
+Estimular ou encorajar algo.
+
+incorporar
+Incluir ou integrar algo.
+
+indignar
+Causar indignação ou revolta.
+
+influenciar-se
+Ser afetado ou influenciado por algo.
+
+inovar
+Introduzir novidades ou mudanças.
+
+inscrever
+Registrar ou matricular-se em algo.
+
+inspirar
+Estimular ou motivar algo.
+
+instalar
+Colocar ou montar algo em um lugar.
+
+instituir
+Estabelecer ou criar algo formalmente.
+
+interagir
+Comunicar-se ou relacionar-se com outros.
+
+interpretar
+Explicar ou compreender o significado de algo.
+
+intervir
+Interferir ou participar em uma situação.
+
+investir
+Aplicar recursos em algo com expectativa de retorno.
+
+justificar-se
+Dar razões ou explicações para algo.
+
+lamentar-se
+Expressar tristeza ou arrependimento.
+
+localizar
+Encontrar ou determinar a localização de algo.
+
+manipular
+Controlar ou influenciar algo de forma habilidosa.
+
+mediar
+Intervir para resolver um conflito.
+
+merecer-se
+Ser digno de algo para si mesmo.
+
+minimizar
+Reduzir a importância ou tamanho de algo.
+
+mobilizar
+Organizar ou reunir pessoas para um objetivo.
+
+modernizar
+Tornar algo mais moderno ou atualizado.
+
+motivar
+Estimular ou encorajar a ação.
+
+negociar
+Discutir para chegar a um acordo.
+
+normalizar
+Tornar algo normal ou padrão.
+
+nutrir
+Alimentar ou sustentar algo.
+
+objetivar
+Ter como objetivo ou finalidade.
+
+ocultar
+Esconder ou manter algo em segredo.
+
+opinar
+Expressar uma opinião ou ponto de vista.
+
+otimizar
+Melhorar ou aperfeiçoar algo.
+
+paralisar
+Impedir o movimento ou funcionamento de algo.
+
+participar
+Tomar parte em algo.
+
+perceber-se
+Tornar-se consciente de algo.
+
+perdurar
+Durar ou continuar por um longo tempo.
+
+planejar-se
+Fazer planos para si mesmo.
+
+posicionar
+Colocar em uma determinada posição ou lugar.
+
+precaver
+Tomar precauções ou medidas preventivas.
+
+prever
+Antecipar ou predizer algo.
+
+priorizar
+Dar preferência ou importância a algo.
+
+proceder
+Agir ou realizar algo de determinada maneira.
+
+programar
+Planejar ou organizar uma sequência de ações.
+
+prolongar
+Estender ou aumentar a duração de algo.
+
+promover
+Incentivar ou divulgar algo.
+
+proporcionar
+Fornecer ou oferecer algo.
+
+qualificar
+Atribuir qualidades ou habilidades a algo.
+
+questionar
+Colocar em dúvida ou levantar questões.
+
+racionalizar
+Tornar algo mais lógico ou eficiente.
+
+reagir
+Responder a um estímulo ou ação.
+
+realizar-se
+Tornar-se realidade ou cumprir um objetivo.
+
+recolher
+Juntar ou reunir algo.
+
+reconciliar
+Restabelecer a harmonia ou amizade.
+
+recuperar
+Restaurar ou obter algo de volta.
+
+redigir
+Escrever ou elaborar um texto.
+
+reformar
+Modificar ou melhorar algo.
+
+reforçar
+Tornar algo mais forte ou resistente.
+
+regulamentar
+Estabelecer regras ou normas para algo.
+
+reivindicar
+Exigir ou reclamar algo.
+
+relacionar
+Estabelecer uma ligação ou conexão.
+
+remediar
+Corrigir ou solucionar um problema.
+
+renovar
+Tornar algo novo ou atualizado.
+
+reorganizar
+Organizar novamente ou de forma diferente.
+
+reparar
+Consertar ou corrigir algo danificado.
+
+representar-se
+Agir em nome de si mesmo.
+
+reproduzir
+Copiar ou criar algo semelhante.
+
+requisitar
+Solicitar ou pedir algo formalmente.
+
+rescindir
+Cancelar ou anular um contrato.
+
+reservar
+Guardar ou destinar algo para um fim específico.
+
+resgatar
+Salvar ou libertar algo ou alguém.
+
+residir
+Morar ou habitar em um lugar.
+
+resistir
+Opor-se ou suportar algo.
+
+respeitar
+Tratar com consideração ou admiração.
+
+ressaltar
+Destacar ou enfatizar algo.
+
+restabelecer
+Reconstruir ou restaurar algo.
+
+restringir
+Limitar ou controlar algo.
+
+retirar
+Remover ou tirar algo.
+
+revelar-se
+Tornar-se conhecido ou manifesto.
+
+revisar
+Examinar ou corrigir algo.
+
+sacrificar
+Renunciar a algo em prol de outra coisa.
+
+salientar
+Destacar ou enfatizar algo.
+
+satisfazer
+Agradar ou contentar alguém.
+
+selecionar
+Escolher ou separar algo de um grupo.
+
+sensibilizar
+Tornar alguém consciente ou sensível a algo.
+
+sintetizar
+Resumir ou condensar algo.
+
+solidarizar
+Mostrar apoio ou união a alguém.
+
+solucionar
+Resolver ou encontrar uma solução para algo.
+
+submeter
+Colocar-se sob o controle ou autoridade de algo.
+
+substituir
+Colocar algo ou alguém no lugar de outro.
+
+subtrair
+Remover ou diminuir algo.
+
+supervisionar
+Monitorar ou controlar algo.
+
+suprimir
+Eliminar ou remover algo.
+
+surgir
+Aparecer ou manifestar-se.
+
+suspender
+Interromper ou parar algo temporariamente.
+
+sustentar-se
+Manter-se ou apoiar-se em algo.
+
+testemunhar
+Presenciar ou dar testemunho de algo.
+
+tolerar
+Suportar ou aceitar algo.
+
+transformar
+Mudar a forma ou natureza de algo.
+
+transmitir
+Passar ou comunicar algo.
+
+transpor
+Atravessar ou superar um obstáculo.
+
+ultrapassar
+Exceder ou superar algo.
+
+unificar
+Reunir ou juntar algo em um todo.
+
+validar
+Confirmar ou tornar algo válido.
+
+valorizar
+Dar valor ou importância a algo.
+
+verificar
+Examinar ou conferir algo.
+
+vincular
+Ligar ou conectar algo a outra coisa.
+
+visualizar
+Imaginar ou ver algo mentalmente.
